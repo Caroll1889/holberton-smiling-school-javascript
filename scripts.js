@@ -96,3 +96,4 @@ function cards(q, topic, sort) {
         }
     })
 }
+cards()
