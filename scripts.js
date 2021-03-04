@@ -64,7 +64,7 @@ function cards(q='', topic='all', sort='most_popular') {
                         <div class="card mb-4">
                             <img src="${element.thumb_url}" alt="" class="card-img-top">
                             <div class="card-img-overlay d-flex justify-content-center mt-5">
-                                <img src="images/play.png" width="50" height="50">
+                                <img src="images/play.png" width="60" height="60">
                             </div>
                             <div class="card-body">
                                 <h5 class="card-title">${element.title}</h5>
