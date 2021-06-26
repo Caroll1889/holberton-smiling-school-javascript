@@ -30,7 +30,7 @@ Here the final result:
 
 ## :black_nib: Authors 
 
-**Diahan Hudgson** 
+I am Diahan Caroll Hudgson and I'm web developer, with knowledge and experience, working in web technologies, delivering quality work. I'm passionate about creating and developing web interfaces.
 
 ## :mag: Where can you find me?
 
